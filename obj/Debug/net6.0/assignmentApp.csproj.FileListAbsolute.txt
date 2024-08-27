@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\My Projects\assignmentApp\obj\Debug\net6.0\assignmentApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\My Projects\assignmentApp\obj\Debug\net6.0\assignmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\My Projects\assignmentApp\obj\Debug\net6.0\assignmentApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\My Projects\assignmentApp\obj\Debug\net6.0\assignmentApp.AssemblyInfo.cs
+C:\Users\user\Desktop\My Projects\assignmentApp\obj\Debug\net6.0\assignmentApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My Projects\assignmentApp\bin\Debug\net6.0\assignmentApp.exe
+C:\Users\user\Desktop\My Projects\assignmentApp\bin\Debug\net6.0\assignmentApp.deps.json
+C:\Users\user\Desktop\My Projects\assignmentApp\bin\Debug\net6.0\assignmentApp.runtimeconfig.json
+C:\Users\user\Desktop\My Projects\assignmentApp\bin\Debug\net6.0\assignmentApp.dll
+C:\Users\user\Desktop\My Projects\assignmentApp\bin\Debug\net6.0\assignmentApp.pdb
+C:\Users\user\Desktop\My Projects\assignmentApp\obj\Debug\net6.0\assignmentApp.dll
+C:\Users\user\Desktop\My Projects\assignmentApp\obj\Debug\net6.0\refint\assignmentApp.dll
+C:\Users\user\Desktop\My Projects\assignmentApp\obj\Debug\net6.0\assignmentApp.pdb
+C:\Users\user\Desktop\My Projects\assignmentApp\obj\Debug\net6.0\assignmentApp.genruntimeconfig.cache
+C:\Users\user\Desktop\My Projects\assignmentApp\obj\Debug\net6.0\ref\assignmentApp.dll
